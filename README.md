@@ -1,4 +1,4 @@
-# Mood of the Day (Beta)
+# Mood of the Day (Beta-Linux Only)
 
 > **Beta Testing:** Mood of the Day is currently in active Beta testing across Linux distributions and desktop environments (GNOME, KDE Plasma, XFCE). If you test the app, please share your thoughts and issues in our **[Feedback & Testing Form](Paste your Google Form link here)**!
 
