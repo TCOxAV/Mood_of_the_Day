@@ -1,0 +1,2 @@
+[console_scripts]
+mood-of-the-day = mood.main:main
